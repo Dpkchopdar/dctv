@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "180504558248",
+    "project_id": "dcplay-a688d",
+    "storage_bucket": "dcplay-a688d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180504558248:android:5304c423707be48e99609d",
+        "android_client_info": {
+          "package_name": "com.dclive.dcplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180504558248-ggr0o69jns63h8an67r7ftbhhu11r5u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dclive.dcplay",
+            "certificate_hash": "31aad05ed131ec7fa8f2602208bb41ff85c9af53"
+          }
+        },
+        {
+          "client_id": "180504558248-hm03fmvmnf5rpek7b0qugmr8ahnbp7qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dclive.dcplay",
+            "certificate_hash": "8127e84a374187f95853e183eeabba64834c4b26"
+          }
+        },
+        {
+          "client_id": "180504558248-o3q1o2e32a1megfshu26ef9n20udg6ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dclive.dcplay",
+            "certificate_hash": "04d85b3d295f2f058eebd64d9b365a8b4edc1f3d"
+          }
+        },
+        {
+          "client_id": "180504558248-u4be5o1r1vad04ilha7fe11ss79if597.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dclive.dcplay",
+            "certificate_hash": "8ec9fa5ab4e88a1f4c34b20ebbed53542ebd8d22"
+          }
+        },
+        {
+          "client_id": "180504558248-sh2uc59i572pa2log2er44m6lg6buqh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHb0HtSvXD30DKqCbbNrNwJfxD4X9gCYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180504558248-gfpl5p63nge390n4ttf4iv3fjmrk91k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180504558248-g871sh7adj903g4uket41iss98ibt71u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dclive.dcplaytv"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180504558248:android:ef7103e4ef9c9c1199609d",
+        "android_client_info": {
+          "package_name": "com.dclive.dcplaytv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180504558248-sh2uc59i572pa2log2er44m6lg6buqh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHb0HtSvXD30DKqCbbNrNwJfxD4X9gCYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180504558248-gfpl5p63nge390n4ttf4iv3fjmrk91k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180504558248-g871sh7adj903g4uket41iss98ibt71u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dclive.dcplaytv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
