@@ -2,9 +2,9 @@ import 'package:dtlive/model/qualitymodel.dart';
 import 'package:dtlive/model/subtitlemodel.dart';
 
 class Constant {
-  static const String baseurl = 'https://dcplay.in/admin_panel/public/api/';
+  static const String baseurl = 'https://dcplay.in/admin/public/api/';
 
-  static String? appName = "DTLive";
+  static String? appName = "DCPlay";
   static String? appPackageName = "com.dclive.dcplaytv";
   static String? appleAppId = "6449380090";
 

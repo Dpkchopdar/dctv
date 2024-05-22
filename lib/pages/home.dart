@@ -217,8 +217,8 @@ class CustomDialog extends StatelessWidget {
           if (data['dialog'] == 'on') {
             // If "dialog" value is "on", show the dialog
 
-            final appVersion = "1.2.0"; // Replace with your actual app version
-            final dialogVersion = data['version'] ?? "1.2.0";
+            final appVersion = "1.3.0"; // Replace with your actual app version
+            final dialogVersion = data['version'] ?? "1.3.0";
 
             if (appVersion != dialogVersion) {
               return Dialog(
